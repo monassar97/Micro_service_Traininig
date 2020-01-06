@@ -1,0 +1,6 @@
+com:
+  aspire:
+    training:
+      application-name: "test"
+      version: "2"
+        
